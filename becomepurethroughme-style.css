@@ -1,0 +1,31 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: black;
+  color: rgb(167, 0, 0);
+  font-size: 30px;
+}
+
+.fullview {
+  height: 60vh;
+  font-style: italic;
+}
+
+a {
+font-size:14px;
+text-align: center;
+color: #ffecec;
+}
+
+.golden1 {
+  float: days2;
+}
+
+.fruitfulOf3 {
+  color: golden4;
+}
+
+.blacktext {
+  font-size: 14px;
+  color: black;
+}
+
